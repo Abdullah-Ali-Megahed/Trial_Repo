@@ -1,0 +1,12 @@
+//c++ code
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int x, y;
+y = 10; x = y;
+cout << x * y / 2 << "\n";
+return 0;
+}
